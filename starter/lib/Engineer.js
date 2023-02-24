@@ -2,7 +2,7 @@
 const Employee = require("./Employee");
 
 class Engineer extends Employee {
-    constructor(name, id, email, github) { // and whatever else is necessary
+    constructor(name, id, email, github) { // testing engineer class
         super(name, id, email);
         this.github = github;
     }
