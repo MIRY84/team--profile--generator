@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MIRY84/team--profile--generator/issues"
   },
-  "homepage": "https://github.com/MIRY84/team--profile--generator#readme"
+  "homepage": "https://github.com/MIRY84/team--profile--generator#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
 }
