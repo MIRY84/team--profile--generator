@@ -4,7 +4,7 @@ class Manager extends Employee {
     constructor(name, id, email, officeNumber) { // testing features// constructor
         super(name, id, email);//inheritance
         this.officeNumber = officeNumber;
-        this.role = " Manager";
+        this.role = "Manager";
     }
 
     getOfficeNumber(){
