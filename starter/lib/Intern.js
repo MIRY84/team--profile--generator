@@ -4,7 +4,7 @@ class Intern extends Employee {
     constructor(name, email,id, school) { // testing
         super(name, email, id);
         this.school = school;
-        this.role = "intern";
+        this.role = "Intern";
     }
 
     getSchool(){
