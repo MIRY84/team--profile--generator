@@ -34,4 +34,6 @@ node index.js
 
 ---
 
-## Test
+## Questions
+For Any enquiries please follow this link https://github.com/MIRY84/team--profile--generator
+Or email me at mirella.dimichino@gmail.com
