@@ -35,5 +35,5 @@ node index.js
 ---
 
 ## Questions
-For Any enquiries please follow this link https://github.com/MIRY84/team--profile--generator
+For Any enquiries please follow my Github profile at https://github.com/MIRY84
 Or email me at mirella.dimichino@gmail.com
