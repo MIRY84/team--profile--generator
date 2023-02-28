@@ -11,6 +11,12 @@ As a manager a user want to generate a webpage that displays my team's basic inf
 
 Open the terminal and type node index.js. It will prompts a series of questions to initailize the html file creating the team.
 after completing it it will generate dinamically your team profile
+1. First I ran all the unit tests to make sure every code was clean and functional
+![run tests](tests.png)
+2. I opened node index.js and initialize answering the prompts about the team
+![prompts](generating%20html%20prompts.png)
+3. I finished generating the html 
+![final copy](finshed%20generation.png)
 
 
 
