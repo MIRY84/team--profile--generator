@@ -24,7 +24,7 @@ after completing it it will generate dinamically your team profile
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![HTML webpage titled “My Team” features three boxes listing employee names, titles, and other key info.](screenshot%20html.png)
+![HTML webpage titled “My Team” features three boxes listing employee names, titles, and other key info.](screenshothtml.png)
 
 
 
