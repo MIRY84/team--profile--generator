@@ -15,7 +15,7 @@ after completing it it will generate dinamically your team profile
 ![run tests](tests.png)
 2. I opened node index.js and initialize answering the prompts about the team
 ![prompts](generatingprompts.png)
-3. I finished generating the html 
+3. I finished generating  with the resulted html as you can see below
 ![final copy](finshedgeneration.png)
 
 
